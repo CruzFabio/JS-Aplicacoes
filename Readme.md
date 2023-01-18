@@ -1,0 +1,1 @@
+A idealização deste código é para treinamento e também demonstração do uso de funções personalizadas ;)
